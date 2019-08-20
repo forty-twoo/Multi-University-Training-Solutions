@@ -26,7 +26,6 @@ struct Edge{
 	int nxt;
 }edge[MAXN];
 
-//directed edge
 void addedge(int u,int v,ll w){
 	edge[++tot]={u,v,w,head[u]};
 	head[u]=tot;
