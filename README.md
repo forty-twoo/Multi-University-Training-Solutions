@@ -1,5 +1,10 @@
 #  牛客和HDU的多校补题
 
+- [ ] 莫队/三维莫队
+- [ ] 支配树
+
+
+
 | Name | Solve | A | B | C | D | E | F | G | H | I | J | K | L | M |
 | :----: | :----: | :----: |:----: | :----: | :----: |:----: | :----: | :----: |:----: | :----: | :----: |:----: | :----: | :----: |
 | **[2019-HDU-01](https://github.com/forty-twoo/Multi-University-Training-Solutions/tree/master/HDU-01)** | *3/13* | .|.|.|&radic; | &radic; |.|. |.| &radic;|.|.|.|.| 
